@@ -1,5 +1,5 @@
 # Autonomous urban uber system with considering traffic density
-# Coworker: Timothy Werder, Shihao Zhang
+### Coworker: Timothy Werder, Shihao Zhang
 
 This project aims to simulate an autonomous passenger lifting system applying in NewYork city. With the knowledge of the map and the statistic traffic information of each road and street, the path planning module will take this information as cost-to-go. The module will also update the cost-to-go with the agent's experience, and use that as the cost-to-go for the next planning process. 
 
