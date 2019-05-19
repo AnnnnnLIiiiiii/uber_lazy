@@ -7,5 +7,5 @@ There are two level of planning: street-to-street planning and witin-street plan
 1. Each street with one direction and beside one block is treated as a node 
 2. A croosroad can be separated into na * nb nodes, where a is the number of directions the street a has; nb is in similar convention, therfore the possible nodes a crossroad has is in the set (1, 2, 4).
 
-![image](http://github.com/AnnnnnLIiiiiii/uber_lazy/raw/master/state_space_exploration.png)
+[image](http://github.com/AnnnnnLIiiiiii/uber_lazy/raw/master/state_space_exploration.png)
 
